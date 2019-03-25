@@ -1,6 +1,5 @@
-## Project title
-#ScoreKeeper -
-Basic Score Keeping Game Web Application
+## Score Keeper
+#Basic Score Keeping Game Web Application
 
 ## Motivation
 I made this project while I was learning Javascript.
